@@ -28,9 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I Learned
 
-For this challenge, I used mosty codes from previous challenge since it nearly in the same style.
+For this challenge, I used mostly codes from previous challenge since it is almost similar.
 
 ## Author
 
-- Github - [Hadree Mustaffa](https://github.com/hadreemustaffa)
 - Frontend Mentor - [@hadreemustaffa](https://www.frontendmentor.io/profile/hadreemustaffa)
