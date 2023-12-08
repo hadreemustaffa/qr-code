@@ -117,14 +117,10 @@ textarea:not([rows]) {
   --fw-bold: 700;
   --fw-regular: 400;
 
-  --light-gray: hsl(212, 45%, 89%);
-  --grayish-blue: hsl(220, 15%, 55%);
-  --dark-blue: hsl(218, 44%, 22%);
-
   --clr-primary: hsl(212, 45%, 89%);
-  --clr-secondary: hsl(220, 15%, 55%);
+  --clr-secondary: hsl(220, 15%, 45%);
   --clr-tertiary: hsl(218, 44%, 22%);
-  --clr-neutral: hsl(0, 5%, 95%);
+  --clr-neutral: hsl(0, 0%, 100%);
 
   --clr-text-heading: var(--clr-tertiary);
   --clr-text-body: var(--clr-secondary);
